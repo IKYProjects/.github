@@ -1,3 +1,5 @@
 **Welcome to IKY R&D team**
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100">
 
